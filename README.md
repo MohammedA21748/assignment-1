@@ -31,3 +31,17 @@ The instructions on how to create your GitHub Pages home website are available a
 
 #### 2. Deploy the application to GitHub Pages
 Follow the instructions at this [link](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) to deploy your application to GitHub Pages.
+
+
+
+# Assignment 1 - Zoo
+
+This repository contains my zoo website for Assignment 1.
+
+## Live Link
+🔗 [Visit my Zoo Website](https://MohammedA21748.github.io/assignment-1)
+
+## Description
+- Homepage with navigation to 4 animals
+- Each animal has its own page with an image and description
+- Built with HTML and CSS
