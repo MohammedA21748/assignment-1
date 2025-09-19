@@ -9,3 +9,6 @@ This repository contains my zoo website for Assignment 1.
 - Homepage with navigation to 4 animals
 - Each animal has its own page with an image and description
 - Built with HTML and CSS
+
+I worked alone -  Mohammed Ali 
+User - MohammedA21748
